@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Closed loop NMES system with assistive voice assistant and gamification.
 <!--
 **smartHomeNMES/smartHomeNMES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
