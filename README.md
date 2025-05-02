@@ -1,4 +1,10 @@
 ## Hi there 👋
+https://youtu.be/y0tVo8uiLJE
+
+https://youtu.be/1X4XvW03p7I
+
+https://youtu.be/d7rLdNfFJ88
+
 
 Closed loop NMES system with assistive voice assistant and gamification.
 <!--
