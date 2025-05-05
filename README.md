@@ -2,9 +2,9 @@
 # Home-Based Smart NMES Device
 
 A collaborative project with Barrow Neurological Institute to deliver a game-driven, home-based NeuroMuscular Electrical Stimulation (NMES) system. By combining real-time computer vision, adaptive stimulation control, and interactive games, our platform makes rehabilitation engaging, safe, and effective.
-![Project Banner](EGR 555 Poster.jpg)
----
 
+---
+![Project Banner](EGR\ 555\ Poster.jpg)
 ## 📑 Table of Contents
 1. [Overview](#overview)  
 2. [Features & Benefits](#features--benefits)  
@@ -112,6 +112,7 @@ Perform finger flexion/extension to inflate a virtual balloon. If inflation stop
 > - [Game 3: Balloon Filling](https://youtu.be/d7rLdNfFJ88)  
 
 ---
+![Project Banner](Copy\ of\ EGR\ 555\ Poster.jpg)
 
 ## Usage Instructions
 1. Set NMES device to a safe manual max intensity.  
