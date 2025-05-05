@@ -2,7 +2,7 @@
 # Home-Based Smart NMES Device
 
 A collaborative project with Barrow Neurological Institute to deliver a game-driven, home-based NeuroMuscular Electrical Stimulation (NMES) system. By combining real-time computer vision, adaptive stimulation control, and interactive games, our platform makes rehabilitation engaging, safe, and effective.
-
+![Project Banner](EGR 555 Poster.jpg)
 ---
 
 ## 📑 Table of Contents
